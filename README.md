@@ -1,6 +1,6 @@
 # Sensors-in-Embedded-Systems
 
-** This repo is created to share Arduino Scetch files used during "Sensors in Embedded Systems" lectures, starting from Dec 2016.
+**This repo is created to share Arduino Scetch files used during "Sensors in Embedded Systems" lectures, starting from Dec 2016.**
 
 1.	Introduction to course. Review of oscilloscope and function generator usage. Trigger and single shot acquisition.
 2.	Introduction to Arduino; history, board layout and “Blink” code examinations. Function declarations, input arguments and variable type selection
